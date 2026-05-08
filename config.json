@@ -1,0 +1,49 @@
+{
+    "resolution": "1920x1080",
+    "background": "assets/fondo_3.jpg",
+    "logo": "assets/logo.png",
+    "font_current": "assets/font_title.ttf",
+    "font_secondary": "assets/georgia.ttf",
+    "fontsize_current": 139,
+    "fontsize_secondary": 67,
+    "color_current": "#ffde79",
+    "color_secondary": "#dddddd",
+    "margin_top": 200,
+    "step_divisor": 8,
+    "step2_divisor": 8,
+    "fadein_seconds": 3,
+    "background_blur": true,
+    "text_shadow": true,
+    "logo_position": "right",
+    "logo_visible": false,
+    "efecto": "hollywood",
+    "efecto_intensidad": 43,
+    "efecto_velo": 92,
+    "efecto_cantidad": 10,
+    "efecto_random": true,
+    "efecto_random_cada": 5,
+    "vic_activo": true,
+    "vic_tamano": 60,
+    "pdf_titulo": "PLAYLIST \ud83e\udd20 COUNTRY",
+    "pdf_carpeta": "audios",
+    "pdf_columnas": "3",
+    "pdf_fondo_color": [
+        255,
+        255,
+        255
+    ],
+    "pdf_texto_color": [
+        0,
+        0,
+        0
+    ],
+    "monitor": {
+        "x": 1920,
+        "y": 0,
+        "w": 1920,
+        "h": 1080
+    },
+    "fontsize_third": 35,
+    "layout": "clasico",
+    "layout_overlay_alpha": 53
+}
