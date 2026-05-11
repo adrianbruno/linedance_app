@@ -1,0 +1,15 @@
+@"
+_internal/
+audios/
+*.exe
+__pycache__/
+*.py[cod]
+build/
+dist/
+.env
+venv/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+"@ | Out-File -FilePath .gitignore -Encoding utf8
